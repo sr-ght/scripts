@@ -4,11 +4,11 @@
 
 void main(){
 
-    //seg recebendo tempo
+    // Seg recebendo tempo
     int seg = time(0);
     srand(seg);
 
-    //n recebe número aleatório
+    // n recebe número aleatório
     int n = rand() % 100;
     printf("\n%d", n);
 }

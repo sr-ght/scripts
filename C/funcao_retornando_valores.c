@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int arg(int x, int y){
-    //retorna a multiplicação de x e y
+    // Retorna a multiplicação de x e y
     return (x*y);
 }
 

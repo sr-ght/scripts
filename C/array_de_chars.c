@@ -2,8 +2,10 @@
 
 void main(){
 
+    // Array
     char nome[6];
 
+    // Posições
     nome[0] = 'T';
     nome[1] = 'h';
     nome[2] = 'i';

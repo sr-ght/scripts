@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//função simpless
+// Função simpless
 void frase(){
     printf("Olá, eu estou vivo.");
 }

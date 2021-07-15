@@ -4,9 +4,9 @@ void main(){
 
     float dado;
 
-    //saída de dado
+    // Saída de dado
     printf("Informe um numero: ");
-    //entrada de dado
+    // Entrada de dado
     scanf("%f", &dado);
 
     printf("Voce digitou %f", dado);

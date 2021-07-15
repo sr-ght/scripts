@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//função argumentada
+// Função argumentada
 int arg(int x, int y){
 
     printf("%i em funcao de %i", y, x);

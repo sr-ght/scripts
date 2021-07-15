@@ -6,13 +6,13 @@ void main(){
     
     //soma
     int soma = num+num;
-    //multiplicação
+    // Multiplicação
     int mult = num*num;
-    //subtração
+    // Subtração
     int subt = num-num;
-    //divisão
+    // Divisão
     int divi = num/num;
-    //resto
+    // Resto
     int rest = num%num;
 
     printf("Soma: %i\n", soma);

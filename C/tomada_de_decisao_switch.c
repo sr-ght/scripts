@@ -8,7 +8,7 @@ void main(){
     printf("- MENU -\n[1] Frango\n[2] Carne\n[3] Peixe\n[0] Sair\n\n[?] Opcao: ");
     scanf("%d", &op);
 
-    //tomada de decisão com escolha
+    // Tomada de decisão com escolha
     switch(op){
         case 0:
             printf("Voce escolheu Sair.");

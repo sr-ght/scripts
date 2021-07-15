@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//variável constante
+// Variável constante
 #define PI 3.1415
 
 void main(){

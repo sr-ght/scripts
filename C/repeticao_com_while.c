@@ -5,7 +5,7 @@ void main(){
     int num = 0, count = 0;
     char n[10];
 
-    //laço de repeticação while
+    // Laço de repeticação while
     while (count < 10)
     {
         printf("Digite um numero [%d]: ", count);
@@ -20,7 +20,7 @@ void main(){
     
     while (count < 10)
     {
-        //imprime caracteres
+        // Imprime caracteres
         printf("%c ", n[count]);
         count++;
     }

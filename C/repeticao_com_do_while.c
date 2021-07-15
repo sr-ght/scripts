@@ -6,7 +6,7 @@ void main(){
     int count = 0;
     char num, n[10];
 
-    //laço de repetição do while
+    // Laço de repetição do while
     do{
 
         printf("Informe um numero: ");

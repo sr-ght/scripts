@@ -3,9 +3,11 @@
 
 void main(){
 
+    // Array
     char str[8];
     int count = 0;
 
+    // Posições
     str[0] = 'b';
     str[1] = 'e';
     str[2] = 't';
@@ -22,6 +24,7 @@ void main(){
         printf("Digite uma letra: ");
         scanf("%c", &letra);
         
+        // Encontra a posição da letra
         for(int i = 0; i < strlen(str); i++){
             if(str[i] == letra) printf("A posicao da letra [%c] eh: %d\n", letra, i);
         }

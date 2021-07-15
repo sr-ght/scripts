@@ -3,6 +3,6 @@
 void main(){
 
     char ch = 'A';
-    //imprime número ASCII do caracter
+    // Imprime número ASCII do caracter
     printf("%d", ch);
 }
