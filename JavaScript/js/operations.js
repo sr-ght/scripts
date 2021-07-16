@@ -1,0 +1,1 @@
+document.getElementById("calc").innerHTML = 5 + 6;
